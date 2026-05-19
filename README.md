@@ -286,7 +286,7 @@ Actual Price: [1115.65]
 
 ### Predictions
 
-<img width="304" height="46" alt="image" src="https://github.com/user-attachments/assets/902077e7-726e-49b7-8559-16098c870bdc" />
+<img width="273" height="78" alt="image" src="https://github.com/user-attachments/assets/8c422497-d23a-42e2-b3be-b4af62caf892" />
 
 
 ## RESULT
