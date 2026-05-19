@@ -276,13 +276,13 @@ Actual Price: [1115.65]
 ### OUTPUT
 
 ## Training Loss Over Epochs Plot
-<img width="810" height="617" alt="image" src="https://github.com/user-attachments/assets/7caa07ea-e0cc-426c-aca9-2f0a5b4f6928" />
+<img width="834" height="622" alt="image" src="https://github.com/user-attachments/assets/79306ead-973d-4d04-9e7e-770121d9f4a9" />
 
 
 
 
 ## True Stock Price, Predicted Stock Price vs time
-<img width="1085" height="716" alt="image" src="https://github.com/user-attachments/assets/8fe7d33e-2d89-4a12-8bc0-72c3cbbf53d7" />
+<img width="954" height="635" alt="image" src="https://github.com/user-attachments/assets/09e2ea06-3b55-483a-bbf9-2dbd5b4a18a8" />
 
 ### Predictions
 
